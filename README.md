@@ -19,7 +19,7 @@ gambar diatasadalah untuk CSS</br>
 </br>
 setelah selesai mari kita coba membuat layout sederhana pada HTML</br>
  pertama mari kita buat kerangkanya dahulu</br>
-![gambar2code](foto/ss2code.jpg)</br>
+[gambar2code](foto/ss2code.jpg)</br>
  lalu kemudian kita tambahkan CSS seperti gambar dibawah disini</br>
 ![gamabar2.1code](foto/sscode2.1.jpg)</br>
  jika sudah mari kita buka pada browser maka akan terlihat seperti gamabar dibawah ini</br>
