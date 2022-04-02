@@ -18,8 +18,7 @@ gambar diatasadalah untuk CSS</br>
 ![gamabar1hasil](foto/ss1hasil.jpg)</br>
 </br>
 </br>
-untuk selanjutnya mari kita membuat layout sederhana</br>
-mari kita buat dari kerangkanya dahulu</br>
+
 ![gambar2code](foto/ss2code.jpg)</br>
  lalu kemudian kita tambahkan CSS seperti gambar dibawah disini</br>
 ![gambar2.1code](foto/sscode2.1.jpg)</br>
