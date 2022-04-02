@@ -17,7 +17,9 @@ gambar diatasadalah untuk CSS</br>
 2. lalu kita buka dibrowser maka akan terlihat seperti dibawah ini</br>
 ![gamabar1hasil](foto/ss1hasil.jpg)</br>
 </br>
-
+setelah selesai mari kita coba membuat layout sederhana pada HTML</br>
+</br>
+pertama mari kita buat kerangkanya dahulu</br>
 ![gambar2code](foto/ss2code.jpg)</br>
  lalu kemudian kita tambahkan CSS seperti gambar dibawah disini</br>
 ![gambar2.1code](foto/sscode2.1.jpg)</br>
