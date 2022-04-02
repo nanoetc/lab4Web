@@ -20,8 +20,9 @@ gambar diatasadalah untuk CSS</br>
 setelah selesai mari kita coba membuat layout sederhana pada HTML</br>
  pertama mari kita buat kerangkanya dahulu</br>
 ![gambar2code](foto/ss2code.jpg)</br>
+![gamabar1hasil](foto/ss1hasil.jpg)</br>
  lalu kemudian kita tambahkan CSS seperti gambar dibawah disini</br>
-![gamabar2.1code](foto/sscode2.1.jpg)</br>
+![gambar2.1code](foto/sscode2.1.jpg)</br>
  jika sudah mari kita buka pada browser maka akan terlihat seperti gamabar dibawah ini</br>
 ![gamabr2.1](foto/ss2.1hasil.jpg)</br>
  setelah itu mari kita buat navigasi pada CSS</br>
