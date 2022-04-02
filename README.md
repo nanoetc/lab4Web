@@ -10,12 +10,12 @@ link untuk membuat layout sederhana HTML=>[layout sederhana HMTL](layout/home.ht
 link untuk membuat CSS layout sederhana=>[layout sederhana CSS](layout/style.css)</br>
 
 1. membuat box html bisa dilihat pada gambar dibawah ini</br>
-![gambar1](foto/sscode1.jpg)</br>
+![gambar1](foto/ss1code.jpg)</br>
 gambar diatas adalah untuk HTML </br>
-![gambar1.1](foto/sscode1.1.jpg)</br>
+![gambar1.1](foto/ss1.1code.jpg)</br>
 gambar diatasadalah untuk CSS</br>
 2. lalu kita buka dibrowser maka akan terlihat seperti dibawah ini</br>
-![gamabar1hasil](foto/sshasil1.jpg)</br>
+![gamabar1hasil](foto/ss1hasil.jpg)</br>
 </br>
 setelah selesai mari kita coba membuat layout sederhana pada HTML</br>
 -. pertama mari kita buat kerangkanya dahulu</br>
