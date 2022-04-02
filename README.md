@@ -18,8 +18,9 @@ gambar diatasadalah untuk CSS</br>
 ![gamabar1hasil](foto/ss1hasil.jpg)</br>
 </br>
 setelah selesai mari kita coba membuat layout sederhana pada HTML</br>
+![gambar2code](foto/ss2code.jpg)</br>
  pertama mari kita buat kerangkanya dahulu</br>
-[gambar2code](foto/ss2code.jpg)</br>
+![gambar2code](foto/ss2code.jpg)</br>
  lalu kemudian kita tambahkan CSS seperti gambar dibawah disini</br>
 ![gamabar2.1code](foto/sscode2.1.jpg)</br>
  jika sudah mari kita buka pada browser maka akan terlihat seperti gamabar dibawah ini</br>
@@ -51,7 +52,7 @@ setelah selesai mari kita coba membuat layout sederhana pada HTML</br>
  mari kita tambahkan article</br>
 ![gambar 2.7](foto/sscode2.6.1.jpg)</br>
  jangan lupa tambahkan pada CSS juga</br>
-![gambar 2.7](foto/sscode2.6.2.jpg)</br>\
+![gambar 2.7](foto/sscode2.6.2.jpg)</br>
  refresh browser dan liat perubahannya</br>
 ![gambar 2.7](foto/sshasil2.7.jpg)</br>
 </br>
