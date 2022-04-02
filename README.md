@@ -18,7 +18,6 @@ gambar diatasadalah untuk CSS</br>
 ![gamabar1hasil](foto/ss1hasil.jpg)</br>
 </br>
 setelah selesai mari kita coba membuat layout sederhana pada HTML</br>
-![gambar2code](foto/ss2code.jpg)</br>
  pertama mari kita buat kerangkanya dahulu</br>
 ![gambar2code](foto/ss2code.jpg)</br>
  lalu kemudian kita tambahkan CSS seperti gambar dibawah disini</br>
