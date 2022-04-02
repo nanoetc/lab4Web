@@ -18,41 +18,41 @@ gambar diatasadalah untuk CSS</br>
 ![gamabar1hasil](foto/ss1hasil.jpg)</br>
 </br>
 setelah selesai mari kita coba membuat layout sederhana pada HTML</br>
--. pertama mari kita buat kerangkanya dahulu</br>
+ pertama mari kita buat kerangkanya dahulu</br>
 ![gambar2code](foto/ss2code.jpg)</br>
--. lalu kemudian kita tambahkan CSS seperti gambar dibawah disini</br>
+ lalu kemudian kita tambahkan CSS seperti gambar dibawah disini</br>
 ![gamabar2.1code](foto/sscode2.1.jpg)</br>
--. jika sudah mari kita buka pada browser maka akan terlihat seperti gamabar dibawah ini</br>
+ jika sudah mari kita buka pada browser maka akan terlihat seperti gamabar dibawah ini</br>
 ![gamabr2.1](foto/ss2.1hasil.jpg)</br>
--. setelah itu mari kita buat navigasi pada CSS</br>
+ setelah itu mari kita buat navigasi pada CSS</br>
 ![gambar2.2](foto/sscode2.2.jpg)</br>
--. jika sudah mari refresh browser maka akan tampak seperti dibawah ini</br>
+ jika sudah mari refresh browser maka akan tampak seperti dibawah ini</br>
 ![gambar2.2hasil](foto/ss2.2hasil.jpg)</br>
--. mari kita buat Hero panel pada CSS</br>
+ mari kita buat Hero panel pada CSS</br>
 ![gambar2.3](foto/sscode2.3.jpg)</br>
--. refresh browser dan liat perubahannya</br>
+ refresh browser dan liat perubahannya</br>
 ![gambar2.3](foto/sshasil2.3.jpg)</br>
--. mari kita buat sidebar Widget box</br>
+ mari kita buat sidebar Widget box</br>
 ![gambar2.4](foto/sscode2.4.1.jpg)</br>
--. tambahkan juga pada file CSS</br>
+ tambahkan juga pada file CSS</br>
 ![gambar2.4](foto/sscode2.4.1.jpg)</br>
--. refresh browser dan liat perubahannya</br>
+ refresh browser dan liat perubahannya</br>
 ![gambar2.4](foto/ss2.4hasil.jpg)</br>
--. kita buat footer</br>
+ kita buat footer</br>
 ![gambar2.5](foto/sscode2.5.jpg)</br>
--. refresh browser dan liat perubahannya</br>
+ refresh browser dan liat perubahannya</br>
 ![gambar2.5](foto/sshasil2.5.jpg)</br>
--. kita buat main conten </br>
+ kita buat main conten </br>
 ![gambar 2.6](foto/sscode2.6.1.jpg)</br>
--. tambahkan pada CSS juga </br>
+ tambahkan pada CSS juga </br>
 ![gambar 2.6](foto/sscode2.6.2.jpg)</br>
--. refresh browser dan liat perubahannya</br>
+ refresh browser dan liat perubahannya</br>
 ![gambar 2.6](foto/sshasil2.6.jpg)</br>
--. mari kita tambahkan article</br>
+ mari kita tambahkan article</br>
 ![gambar 2.7](foto/sscode2.6.1.jpg)</br>
--. jangan lupa tambahkan pada CSS juga</br>
+ jangan lupa tambahkan pada CSS juga</br>
 ![gambar 2.7](foto/sscode2.6.2.jpg)</br>\
--. refresh browser dan liat perubahannya</br>
+ refresh browser dan liat perubahannya</br>
 ![gambar 2.7](foto/sshasil2.7.jpg)</br>
 </br>
 Pertanyaan dan Tugas</br>
