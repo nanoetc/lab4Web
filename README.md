@@ -1,7 +1,7 @@
 # lab4Web
 # bagus tri handono - 312010170
 # 20.TI.B1
-==========================================================================================================
+=============================================================</br>
 disini saya akan mempelajari tentang membuat box element dan css layout sederhana</br>
 
 link untuk membuat box HTML=>[element box HTML](box/lab4_box.html)</br>
@@ -9,7 +9,7 @@ link untuk CSS box HTML=>[element box css](box/lab4_box.css)</br>
 link untuk membuat layout sederhana HTML=>[layout sederhana HMTL](layout/home.html)</br>
 link untuk membuat CSS layout sederhana=>[layout sederhana CSS](layout/style.css)</br>
 
-membuat box html bisa dilihat pada gambar dibawah ini</br>
+1. membuat box html bisa dilihat pada gambar dibawah ini</br>
 ![gambar1](foto/ss1code.jpg)</br>
 gambar diatas adalah untuk HTML </br>
 ![gambar1.1](foto/ss1.1code.jpg)</br>
@@ -17,7 +17,7 @@ gambar diatasadalah untuk CSS</br>
 lalu kita buka dibrowser maka akan terlihat seperti dibawah ini</br>
 ![gamabar1hasil](foto/ss1hasil.jpg)</br>
 ===================================================================================================
-membuat layout sederhana pada HTML yang kita mulai membuat kerangkanya terlebih dahulu</br>
+2. membuat layout sederhana pada HTML yang kita mulai membuat kerangkanya terlebih dahulu</br>
 ![gambar2code](foto/ss2code.jpg)</br>
  lalu kemudian kita tambahkan CSS seperti gambar dibawah disini</br>
 ![gambar2.1code](foto/sscode2.1.jpg)</br>
